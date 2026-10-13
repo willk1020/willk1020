@@ -11,11 +11,11 @@ My professional background includes three years of high-stakes Sales, giving me 
 *  **[Gherkinbot: Core Application](https://github.com/willk1020/GherkinBot)**  
   A localized, multi-tier desktop utility built with **Java** and **Electron**. Integrates Twitch and OBS APIs for real-time stream telemetry, featuring a custom audio routing engine and dynamic UI widgets. Engineered a localized pull-request architecture to bypass external push-notification security constraints.
 
+*  **[Gherkinbot: Web Architecture & Documentation](https://github.com/willk1020/GherkinBotSite)**  
+  The front-end product distribution hub built with **HTML/CSS**. Showcases my UI/UX design capabilities and technical writing skills through the deployment of structured version control changelogs and comprehensive end-user field manuals.
+
 *  **[Arc RP: Server Infrastructure](https://github.com/willk1020/gta-server-administration))**  
   An operational case study of my tenure as Owner and Lead Systems Administrator for a live multiplayer server environment. Highlights my enterprise IT skills, including **IT Procurement & Budgeting**, **Identity & Access Management (IAM)**, **Service Desk Ticketing (ITSM)**, and drafting network Acceptable Use Policies (AUP).
-
-*  **[Gherkinbot: Web Architecture & Documentation](link-here)**  
-  The front-end product distribution hub built with **HTML/CSS**. Showcases my UI/UX design capabilities and technical writing skills through the deployment of structured version control changelogs and comprehensive end-user field manuals.
 
 ##  Tech Stack & Core Competencies
 
