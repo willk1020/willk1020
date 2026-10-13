@@ -20,9 +20,9 @@ My professional background includes three years of high-stakes Sales, giving me 
 ##  Tech Stack & Core Competencies
 
 * **Languages & Frameworks:** Java, Lua, HTML/CSS, Python (In Progress), Electron
-* **IT Operations:** Systems Administration, IT Procurement, Service Level Agreements (SLA), Helpdesk Ticketing, User Provisioning
+* **IT Operations:** Systems Administration, Service Level Agreements, Helpdesk Ticketing, User Provisioning
 * **Tools & Environments:** OBS WebSocket, VS Code, Git, Zap Hosting, Cloud Infrastructure
-* **Business Skills:** High-stakes Negotiation, Client De-escalation, Vendor Management, Profit & Loss (P&L) Tracking
+* **Business Skills:** High-stakes Negotiation, Client De-escalation, Profit & Loss Tracking
 
 <!--
 **willk1020/willk1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
